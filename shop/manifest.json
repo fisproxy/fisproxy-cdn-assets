@@ -1,8 +1,8 @@
 {
   "site": "shop",
-  "tag": "shop-fa12752",
-  "commit": "fa12752e6ddfa2a945403b52db881d35c03c3280",
-  "generatedAt": "2026-09-28T15:44:54.807Z",
+  "tag": "shop-d6aef56",
+  "commit": "d6aef5649c6ec00be2d74ff8aa6e65d611932cf8",
+  "generatedAt": "2026-10-04T10:57:47.116Z",
   "files": {
     "shop/assets/api-KEspMSSo.js": {
       "sha384": "qYbFuhMthSIj3a+58OGH2kF84Go3h6e+8TITWpqvLRsvxRekXlQEsMS26beMq1h8",
@@ -101,7 +101,7 @@
       "bytes": 309
     },
     "shop/assets/root-DqfTaAla.js": {
-      "sha384": "V/RJNT8Y0+lpYtCTIcDA4btaM3ajyQA4rkC6MuNNU1NPZegDG04dVcgF2D/N6u9O",
+      "sha384": "UtkMQhbgdQfhHlt54kXBthHSVZc4wvDSIwGi6uhY1wnHhkcdKlx7Vrpv0y1taT8o",
       "bytes": 5209
     },
     "shop/assets/root-Dsr_RhPn.css": {
