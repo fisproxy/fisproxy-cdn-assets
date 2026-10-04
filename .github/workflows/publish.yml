@@ -5,7 +5,7 @@ name: publish-assets
 #
 #   jobs:
 #     publish-assets:
-#       uses: nyaproxy/fisproxy-cdn-assets/.github/workflows/publish.yml@main
+#       uses: fisproxy/fisproxy-cdn-assets/.github/workflows/publish.yml@main
 #       with:
 #         site: wiki
 #         tag: wiki-${{ github.sha }}
@@ -106,7 +106,7 @@ jobs:
       - name: Check out the asset repository
         uses: actions/checkout@v4
         with:
-          repository: nyaproxy/fisproxy-cdn-assets
+          repository: fisproxy/fisproxy-cdn-assets
           ref: main
           path: .cdn-assets
           token: ${{ secrets.token }}
@@ -139,5 +139,5 @@ jobs:
             echo
             echo "- files: $(jq '.files | length' "$manifest")"
             echo "- bytes: $(jq '[.files[].bytes] | add' "$manifest")"
-            echo "- mirror: https://cdn.jsdmirror.com/gh/nyaproxy/fisproxy-cdn-assets@$tag/${{ inputs.site }}/manifest.json"
+            echo "- mirror: https://cdn.jsdmirror.com/gh/fisproxy/fisproxy-cdn-assets@$tag/${{ inputs.site }}/manifest.json"
           } >> "$GITHUB_STEP_SUMMARY"

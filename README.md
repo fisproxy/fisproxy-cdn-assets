@@ -3,8 +3,8 @@
 Published static assets for the FisProxy front-ends. This repository contains **no source code** — it is a
 delivery channel for build output that is then served through jsDelivr mirrors:
 
-- primary `https://cdn.jsdmirror.com/gh/nyaproxy/fisproxy-cdn-assets@<tag>/<path>`
-- fallback `https://jsd.onmicrosoft.cn/gh/nyaproxy/fisproxy-cdn-assets@<tag>/<path>`
+- primary `https://cdn.jsdmirror.com/gh/fisproxy/fisproxy-cdn-assets@<tag>/<path>`
+- fallback `https://jsd.onmicrosoft.cn/gh/fisproxy/fisproxy-cdn-assets@<tag>/<path>`
 
 Both mirrors proxy GitHub byte for byte and send `access-control-allow-origin: *`, so a single
 `integrity="sha384-…"` value is valid on either host.
