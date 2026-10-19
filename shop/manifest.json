@@ -1,8 +1,8 @@
 {
   "site": "shop",
-  "tag": "shop-a8814f7",
-  "commit": "a8814f756fadc2af6e4d6e66d3a53800ccca1197",
-  "generatedAt": "2026-10-08T18:38:53.289Z",
+  "tag": "shop-1118967",
+  "commit": "1118967ae29730bffe2c23d02d073efbc1c7536f",
+  "generatedAt": "2026-10-19T08:20:24.149Z",
   "files": {
     "shop/assets/api-g1fTZz12.js": {
       "sha384": "eDi9dOumBQYjarQudIvSO5ce0d8y8cWWslwvr0dvXNW4VSwhYeZsmTA4VhXQYHMB",
@@ -72,20 +72,20 @@
       "sha384": "2oSccvUyR89XPmH4VUBh/w3f1ZbODA0niPobpOOjZPJbRweulx1zgv80wvkdqxXL",
       "bytes": 17816
     },
-    "shop/assets/input-group-DYWjTBmA.js": {
-      "sha384": "RDkiA8X95SmDdfAQf1bUXmWLFkgzIUKSyPLKveBeJVGajHm0vrEZJnH25lZ2D7iO",
-      "bytes": 17330
+    "shop/assets/input-group-CEHyhoBH.js": {
+      "sha384": "wTfLNtwfGgP6SgVG3TS1EqVjDdsFT6gYGbtY1FlfQ1BqZH1o4kB0scWtxKRPNjGl",
+      "bytes": 17570
     },
     "shop/assets/jsx-runtime-DClPsDC0.js": {
-      "sha384": "LIIj5uBa4Kqy/TyTM7kvKT3mFcsx2Hr7bMtP8qBDfZ5Mrd10bXG3LeKzUs6CNpKd",
-      "bytes": 130282
+      "sha384": "CNKswzsQCU+bbutRY2GQEpqT0vuwzIw458llpCvaCJl8HaFyPYOr0NMJfIAdShlb",
+      "bytes": 130408
     },
     "shop/assets/mutation-on58okKn.js": {
       "sha384": "kOIiRwmzshp9OHXbTEoopSOq6CA2dbo3Uewn2JXkxkGOVPV+jP8w1hHk9M6RdThy",
       "bytes": 1646
     },
-    "shop/assets/order-CqzNzRqa.js": {
-      "sha384": "ozplVJn7zBcdPRP6XfnV2+jfYS7c2ra08l+9o+ffHfQ/bcRBchvhZfsiSDkl9EaV",
+    "shop/assets/order-B6Vzxjyg.js": {
+      "sha384": "D41sRmchVfqou3JXn2xYkwy0FRJeWwo9pEBncl8xY1es9eKQZbeXJFDpgnvF1X6b",
       "bytes": 20695
     },
     "shop/assets/plus-Bg5XW6P-.js": {
@@ -108,9 +108,9 @@
       "sha384": "hxW2Xtk4G/Fa/lnpt2gOynKm2VgFf3BoKxxXUh4yaDGkm90uSaQeZ4zSQdoyRNRW",
       "bytes": 309
     },
-    "shop/assets/root-DezRNXBP.js": {
-      "sha384": "Q2Io6TLXpysJ8sCxzQL4gxsc5YzoImxdHfixLWUfS2eIZ91ZJfcamjM7lWlZIU0E",
-      "bytes": 5826
+    "shop/assets/root-CXFwka1e.js": {
+      "sha384": "VHw3rYUiYblJcdLCDffZOUexZcT/EJhdO2V00XrUSArTAwAVofAwsUes0jSAUqxI",
+      "bytes": 6578
     },
     "shop/assets/root-Dsr_RhPn.css": {
       "sha384": "4ovZrpoX3lmRj2qs5m7d8FVtFwLiy5F+KnFpx0roTd0SaTncZRwLLY2lxLs2a9bi",
@@ -132,8 +132,8 @@
       "sha384": "zQdX2EUKdnQnANiNIZju/0wWF6lD9g6N2NuTrQclBfap5asxzofEzH++D7lTsTjB",
       "bytes": 245
     },
-    "shop/assets/storefront-Bj9XibLr.js": {
-      "sha384": "zx41AChqszDk/75QIcycoaDUjxlT6DzsX3OCVE62mEVzj5elJ6jc2MSQrYc946U2",
+    "shop/assets/storefront-EHTmHf0J.js": {
+      "sha384": "SCn4qZpvZMZPbj1YIt9IV3Z87VZraExFQZKL4lIiAVkHuMl9qmfr2QJ770b0fEUk",
       "bytes": 49910
     },
     "shop/assets/textarea-76AJYk2L.js": {
