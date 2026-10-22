@@ -1,112 +1,124 @@
 {
   "site": "wiki",
-  "tag": "wiki-d3c3638",
-  "commit": "d3c36388012913322306211de054ee8dd657852b",
-  "generatedAt": "2026-10-04T10:58:24.382Z",
+  "tag": "wiki-e59a779",
+  "commit": "e59a779cbdcf87fb1483962f2dd62149ecf97eb0",
+  "generatedAt": "2026-10-22T18:51:20.374Z",
   "files": {
+    "wiki/_next/static/X2qwOSTFLsz_eLA2IAKzw/_buildManifest.js": {
+      "sha384": "6n1lP2hamwHYZstX/pn7gP3sENfQDXXxJatTk37DIqlmX2ibiBf0ujqwDVD7BrXK",
+      "bytes": 364
+    },
+    "wiki/_next/static/X2qwOSTFLsz_eLA2IAKzw/_clientMiddlewareManifest.js": {
+      "sha384": "FydDAC1UDIxpwcrmue95P5vRCO20eynViUoChMeytNUbCT3HHGva5hPDru9bl5H+",
+      "bytes": 96
+    },
+    "wiki/_next/static/X2qwOSTFLsz_eLA2IAKzw/_ssgManifest.js": {
+      "sha384": "jnCHeoDJknyh1Uc1Amkm2k7/m4ljprA2WG15tfzmCtoLmMUX+2kUgvNSxYe1ikOK",
+      "bytes": 111
+    },
+    "wiki/_next/static/chunks/0agi80c6qajry.js": {
+      "sha384": "0g3wxQiA4cSaDeTIvTjc2iNL2/DmRkU6RCQmDgT6xC6yxB5C8HCjEGZsfXND6n9u",
+      "bytes": 824
+    },
+    "wiki/_next/static/chunks/0aqtjbju6vype.js": {
+      "sha384": "7Af2pc7I2vk8e4m/yK/pgECuOC713q01qH4zN6uNMbbvYT3EFaem9/ja7mD9US+h",
+      "bytes": 13821
+    },
+    "wiki/_next/static/chunks/0b389ta3jx_2f.js": {
+      "sha384": "YoYul9fFeWk8HuX93H3rRaJ4fjmd9OJRv648NiZ+4+0xtPaCDg+ZvNWFlVUatMMe",
+      "bytes": 116958
+    },
+    "wiki/_next/static/chunks/0cbhbo9u2a83v.js": {
+      "sha384": "vMPjYEtABDa3bQxFrDk5WG1eCtFNtxY0PmoTnmKgGOUVcaeumzX/a4pT5NvnJtBR",
+      "bytes": 229597
+    },
     "wiki/_next/static/chunks/0cz1d0mv5g_q7.js": {
       "sha384": "w1OChgUsMz6Qk5chKcfnqibG8VNLM2FcpIoMlpX/PTNfc9SE68eLEzTKv7bV3aY7",
       "bytes": 112594
     },
-    "wiki/_next/static/chunks/0hsp90fymipr7.js": {
-      "sha384": "HjzdVZvY71FYSzgDqCDzqvS/QdYuK6AVaN/lK+sJ5Qf1QSiSH8LXCcqlg134Bzw9",
-      "bytes": 225957
+    "wiki/_next/static/chunks/0ien8bxp_soit.js": {
+      "sha384": "VYAlgcqziBqRcbLB0GL4OKs0FmGwEITtVd7gZJHOzoVfvJ19KGeMuYFzQqMzzPTW",
+      "bytes": 1894
     },
     "wiki/_next/static/chunks/0oyn-8imgh6-q.js": {
       "sha384": "78GNPwxPIWfXTnxu38IoMQmLbPiOjDWHmtVPzwcN9Dl1Qgp6UfkkTgy8t6o+6rvo",
       "bytes": 12033
     },
-    "wiki/_next/static/chunks/0t1v0ojdm_6yw.js": {
-      "sha384": "v9PDeGFovZlZTZz5K/Pa4YXZJ4zDjdChUPO51fIlhnKNwYlsICx0PMBHPNBDw0vm",
-      "bytes": 1279
+    "wiki/_next/static/chunks/0wz6y374cmroa.js": {
+      "sha384": "FR0LoYegdrFdsQtVYmEoXjAJPiVPZxv60K4r2ZIqAZOVOwn0+pW7Irpl/fCIAvUN",
+      "bytes": 22232
     },
-    "wiki/_next/static/chunks/0x2hdb-9amoeg.js": {
-      "sha384": "JiYNMXWRpdI8Es62ZBnzVkZMXVt5y5kgH93Sx7aO59cpk6GCXKJqVb58OZMqJfFw",
-      "bytes": 71676
+    "wiki/_next/static/chunks/1-fibdkr3wypg.js": {
+      "sha384": "XM1qzDpZjLxDjyuTKW5epXlPdbS6LmT+UwOYt+WVQruHAGXDCebljxJYwm9AzCXj",
+      "bytes": 163870
     },
-    "wiki/_next/static/chunks/10kw-r6etqj0b.js": {
-      "sha384": "yFzFBAmIyFrXd/VWVKo0qjbHBV9TzBJLhqDgLYXyYl7nWd1yG7pcO3vU1pB05zTw",
-      "bytes": 69405
+    "wiki/_next/static/chunks/1e525gc2lzryq.js": {
+      "sha384": "vyGgkUye22iJaWtzUFdVVu2DYWOJ8/YgH/iHKSAAWgx9gJp+oPYMiGEWs/lVnBps",
+      "bytes": 45486
     },
-    "wiki/_next/static/chunks/18_1-sx_uww9l.js": {
-      "sha384": "+aM8BlpLV1vfYUNWWI7JMVHArLrmyjbqJu62Qd/gvdqC9uon5AJx5kdE5n8cOhN/",
-      "bytes": 228844
+    "wiki/_next/static/chunks/1nzonw18w7kw2.js": {
+      "sha384": "mtaKkOW9sCwuOUDZTX1lVmi/2Wg++n5NnWm7/rJXDMhhVKClNsn4inqWUVdN6rB7",
+      "bytes": 179079
     },
-    "wiki/_next/static/chunks/1gvwe0velnw6a.js": {
-      "sha384": "jwx7DHS/k9lgjLQUTMJB7iQmR92KcRA36GUZCKbtJ1TVHSmAdpJu2itinyRBhdAI",
-      "bytes": 2625
+    "wiki/_next/static/chunks/214-_v-91vuco.js": {
+      "sha384": "5bEqrJw1zk7Unm+vEmVazvAo1qO3759YnfPrtciQxOcSiv0iN1qLhyZTBtIFfqvC",
+      "bytes": 2554
     },
-    "wiki/_next/static/chunks/1ix4874_c6iym.js": {
-      "sha384": "6q4icO6Fi94K+GLEiSLCwGFAowVKkOPgCeFScj+YPmM57vt3Wt//7rq36FhJi8Xb",
-      "bytes": 314
+    "wiki/_next/static/chunks/21de5c8zteutj.js": {
+      "sha384": "m4pd4sfd9xo5vfKs/p7Ykc1ye9UnMouE8xP2UrX/D3okPHVqYpFDPh8QYmm3ZnaE",
+      "bytes": 1262
     },
-    "wiki/_next/static/chunks/1iye7dwhtxrnu.js": {
-      "sha384": "XEhucvhLowxXC5jVC8vPmE49HANx2Pjrl15VNNq7CupHThcesEtYs1Mntdatilxh",
-      "bytes": 34010
+    "wiki/_next/static/chunks/2bu7-v7-7puqe.js": {
+      "sha384": "f61WgRZ/+C6YNdPJ59I4cl8OEdXmn7P6vDULyXItbpRzGjrYN0nznB+xX11dmPiw",
+      "bytes": 2611
     },
-    "wiki/_next/static/chunks/1ocijsw1rf1te.js": {
-      "sha384": "BKOrbXEx4hFRWA4j2jia3cMPPgpn6mYSYCQPahAe9uBd4sVx06AWa/OwL2eG2LZC",
-      "bytes": 281
+    "wiki/_next/static/chunks/2g6d40dy4oi6g.js": {
+      "sha384": "8dWI+Hi0mOla0GDUEWNEYm6XsaLuZfHfTn29buKri3n+K5EwkhNgRw0XVez6atew",
+      "bytes": 88513
     },
-    "wiki/_next/static/chunks/2-qy0w66ixicv.js": {
-      "sha384": "28EdHf+mUHPVtE5/RZs6V2+JiGgoALPs0bx3rbxynob04v47qEjq22JvEVpuPkol",
-      "bytes": 180946
+    "wiki/_next/static/chunks/2ob-e-av-un4m.js": {
+      "sha384": "QSsVpxNa2ykQNfimWehp1y7T4oFkVJ6qTQhT1LG5PT6VOcGmAJivmZhy5hb760JR",
+      "bytes": 70851
     },
-    "wiki/_next/static/chunks/211cunfhqyd6d.js": {
-      "sha384": "qmC7vPpgcLBpv9Ut5rE4rpsgyPQfQOowySTkie9BVHKBwE9x2f0X40oEgMtDQTFT",
-      "bytes": 14376
+    "wiki/_next/static/chunks/2r33wq26tnk5t.js": {
+      "sha384": "w4dVDGIFfwl5XWaVxafGYQt4mpD7BvpI2kw5vzPYudx5YMmIAT86lLYQaE2Skls/",
+      "bytes": 174
     },
-    "wiki/_next/static/chunks/28gn02g-uwi5m.js": {
-      "sha384": "QWKDYv39zrqXYweRTix2RQv+s5dkMI85KNcLgFI7+ljd3Oz/JeRgS1lHgPo8eKYl",
-      "bytes": 5598
-    },
-    "wiki/_next/static/chunks/28scvy598262v.js": {
-      "sha384": "uBQSGss4pT5P4LZVP8tf0KmkUxD6/hCkG9l9Z9pn/FBTItELZ/xtpRYqYdqRTmlT",
-      "bytes": 46791
-    },
-    "wiki/_next/static/chunks/2cgiwkhvzs-7w.js": {
-      "sha384": "GNkw1WW+bG+gRA7zB+jhQUMod2oOCeNvTgzT5G7Ff1KImj9Lz23hN+NejOCMJkCJ",
-      "bytes": 1822
-    },
-    "wiki/_next/static/chunks/2iu20jam_i4t1.css": {
-      "sha384": "rkRzodVfgjNj8RMOxc67Pv/du2QbGFglqD5cG8EyeXJ82MEk6P85qdhFQSS9vDJY",
+    "wiki/_next/static/chunks/2tqmixmx1ctv1.css": {
+      "sha384": "DqX3VixMnuCtmwpkiqKHKXg50NpVGo/jAi83UUQDSCYYJj3vEGC2SFQEH50zuSet",
       "bytes": 123474
     },
-    "wiki/_next/static/chunks/2kmmvzt0e9jj1.js": {
-      "sha384": "ZxnlnM4/CMLUHc4Zhp3yW6WNU7YkB5PbS+fDS0KnFj/a5/x/3rkO985zEEMRm3uY",
-      "bytes": 191
+    "wiki/_next/static/chunks/2urpgru90uy5w.js": {
+      "sha384": "Lyef28A/TIOGo0idjoaj33gdYFcKRVLsGG5uhXqEI/pZhPcBD+1N1Zg9Vs56jJSR",
+      "bytes": 33755
     },
-    "wiki/_next/static/chunks/2pq32ykmh9rrm.js": {
-      "sha384": "WWOU8n/qzOp3vR7/Pek0hc7AiqVqkKbJSD53xuFU1QHcdre6vLCZUhOu94qQ6E+0",
-      "bytes": 1952
+    "wiki/_next/static/chunks/2w0ttio6a9ay4.js": {
+      "sha384": "hXBieroB3WbLSMbKEyeXHax6xZwXXkOKNxP3AcA4/KtIjnbKE8KHUv5bz/uzbxtL",
+      "bytes": 314
     },
-    "wiki/_next/static/chunks/2t6t05zi_39zz.js": {
-      "sha384": "KzlaVIwEZV21pFoodSUL4Z3KT159m3uuzxMxc0zzl+DuGg7N7MeB11pOTm74Oe+I",
-      "bytes": 1518
+    "wiki/_next/static/chunks/2yi6lq56xoijl.js": {
+      "sha384": "1RdsMTypkNwfboEfuYUd2km/IRUzBz0B1QuNJ0FdZfWXvpf1u6o/uFWL1zuZpkK9",
+      "bytes": 5584
     },
-    "wiki/_next/static/chunks/2tsifrctr1che.js": {
-      "sha384": "THxU/eYbeECZZ5DJmLfAZBhkOklWV5FTzIqiCnFnS/6ebsDEt3jk7D8zWR+Mep9p",
-      "bytes": 119682
+    "wiki/_next/static/chunks/2zh_t2yk387ta.js": {
+      "sha384": "QfYlj+6nbW2lOPDkFaZmiTdmivXbkc5RUJOFBp5HDzGfsmT6+kRLcXVepsmv0hve",
+      "bytes": 225316
     },
-    "wiki/_next/static/chunks/2xp9z3sz1tduk.js": {
-      "sha384": "lp/0z8Qli+JNQeGrCjc+ZSQvuuS/E6yrXxIMFaBhACWBwlt+aF+uSaMJATPw1hB6",
-      "bytes": 24528
+    "wiki/_next/static/chunks/3ap4m4jc46ga9.js": {
+      "sha384": "q3oPnaGjPkT553nUI+OJ7A1Fq8sEjfQO2RPM6Om+92eJfGIZ7vw4gkigU4SvUMyZ",
+      "bytes": 1483
     },
-    "wiki/_next/static/chunks/2yzsws2usue-b.js": {
-      "sha384": "K8wc4cU9Es9XGzjqg6+EXmfmvSiUG4nolX5a62HX6kNYS2Fw6WyvAWL1XXvCl1XY",
-      "bytes": 88754
+    "wiki/_next/static/chunks/3gfv5zllkzy_f.js": {
+      "sha384": "i77rUJ1obLBUeHc8z6UObGR8P1kNp/5FT1Tr0y4Bq3n70JP869zg0DNGpFHy7Ekg",
+      "bytes": 69359
     },
-    "wiki/_next/static/chunks/3htl4rajoogek.js": {
-      "sha384": "6HF7FNKFMClR2ka15tWhm1KCL9NXYb1XSV2vweeGx5CsscaKEY+WjpkSHBBR5re6",
-      "bytes": 158726
+    "wiki/_next/static/chunks/3rgj1oua9ua7n.js": {
+      "sha384": "1KWRBAOMMrAEcuz/Qhq5wFogli60pflNt36LAHe7GrK3/wKA50L3/yGG3Z0/32Nq",
+      "bytes": 1768
     },
-    "wiki/_next/static/chunks/43wd2so83e0g5.js": {
-      "sha384": "7aLeEHhjH6KVyaSJxZd9ELXZ8JATElGcNEh3qT+Q8TcmBfSQheRGBSs3yxFt0AFg",
-      "bytes": 2682
-    },
-    "wiki/_next/static/chunks/turbopack-23xbhhsszx124.js": {
-      "sha384": "W8nGMCJYsWz6ejn+fjbQRXuG5ZEHRCMwJs3vPw2XlvmGYKDUUZ5aQ2rPObVxi+sD",
-      "bytes": 10960
+    "wiki/_next/static/chunks/turbopack-2hhda6e2m6gxg.js": {
+      "sha384": "G4BJ0z/cOfNdYaP3E9/qQ5oeMiIKNxUiEM8Vhqzbdl4lR1o5NKxwiSzfofK0rQkt",
+      "bytes": 11338
     },
     "wiki/_next/static/media/KaTeX_AMS-Regular.10y3kupq4t663.woff": {
       "sha384": "zzv6YlTIK2GVTGQkpvc0NSYe9dA7KZXEW2BvczWfxlIh461ItqQm6tLVCPwdqbIY",
@@ -423,18 +435,6 @@
     "wiki/_next/static/media/tickets_page.3wm7j_ywkp3qv.webp": {
       "sha384": "G7LGCf1zcqpiKvaYA9B2Z/DD35Me9mbyheS2O5vSS/pG1qeGeuGo/M1fEilMTyp1",
       "bytes": 77164
-    },
-    "wiki/_next/static/vuF6TuVVwgPaER-TUuxBn/_buildManifest.js": {
-      "sha384": "cUU4/M/ah9kVb24JLCjfFShXGyoTJiiPvQvtOaqNcbHtj8VfLIPCMi6PT09Mzczw",
-      "bytes": 364
-    },
-    "wiki/_next/static/vuF6TuVVwgPaER-TUuxBn/_clientMiddlewareManifest.js": {
-      "sha384": "FydDAC1UDIxpwcrmue95P5vRCO20eynViUoChMeytNUbCT3HHGva5hPDru9bl5H+",
-      "bytes": 96
-    },
-    "wiki/_next/static/vuF6TuVVwgPaER-TUuxBn/_ssgManifest.js": {
-      "sha384": "jnCHeoDJknyh1Uc1Amkm2k7/m4ljprA2WG15tfzmCtoLmMUX+2kUgvNSxYe1ikOK",
-      "bytes": 111
     }
   }
 }
