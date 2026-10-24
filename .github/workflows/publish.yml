@@ -55,10 +55,15 @@ on:
         type: string
         default: ""
       keep_tags:
-        description: How many tags to keep per site (newest first); 0 retains all tags.
+        description: How many tags to keep per site (newest first). 0 retains all tags when keep_days is 0.
         required: false
         type: number
         default: 3
+      keep_days:
+        description: Drop tags older than this many days. 0 uses keep_tags instead. The tag just published is always kept.
+        required: false
+        type: number
+        default: 0
       bun_version:
         description: Bun version used for build_command.
         required: false
@@ -127,7 +132,8 @@ jobs:
             --source-dir "$SOURCE_DIR" \
             --repo-dir "${{ inputs.repo_dir }}" \
             --commit "${{ inputs.commit }}" \
-            --keep-tags "${{ inputs.keep_tags }}"
+            --keep-tags "${{ inputs.keep_tags }}" \
+            --keep-days "${{ inputs.keep_days }}"
 
       - name: Summarize the release
         run: |

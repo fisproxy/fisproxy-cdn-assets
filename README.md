@@ -21,10 +21,12 @@ Every release is one tag. Tags carry the site name so one repository can serve s
 
 `<sha7>` is the 7 character short commit SHA of the site repository the assets were built from. A tag is
 immutable: it is created once by `.github/workflows/publish.yml` and never moved, which is what keeps the
-mirrors from serving a stale bundle. Old tags are pruned by the same run (`keep_tags`, default 3).
-Set `keep_tags: 0` to retain all tags. The shop uses this setting because retained origin releases
-still import their matching CDN release. Deploy the publisher's zero-retention support before enabling
-this setting in a caller; the older publisher treats zero as pruning every previous tag.
+mirrors from serving a stale bundle. Old tags are pruned by the same run. The default keeps the
+newest 3 tags per site (`keep_tags`). Set `keep_tags: 0` to retain all tags. Set `keep_days` to drop
+tags older than that many days instead; the tag just published is always kept. The shop uses
+`keep_tags: 0` because retained origin releases still import their matching CDN release. The web app
+uses `keep_days: 7`. Deploy this publisher before a caller sends `keep_days`; an older publisher
+rejects the unknown workflow input.
 
 Each tag contains `manifest.json` next to the files:
 

@@ -13,7 +13,7 @@ const AUTHOR_EMAIL = "289944096+F1sunia@users.noreply.github.com"
 const repoRoot = resolve(dirname(fileURLToPath(import.meta.url)), "..")
 
 function parseArgs(argv) {
-  const args = { keepTags: 3, dryRun: false, commit: "" }
+  const args = { keepTags: 3, keepDays: 0, dryRun: false, commit: "" }
   for (let index = 0; index < argv.length; index += 1) {
     const key = argv[index]
     const value = argv[index + 1]
@@ -24,6 +24,7 @@ function parseArgs(argv) {
       case "--repo-dir": args.repoDir = value; index += 1; break
       case "--commit": args.commit = value; index += 1; break
       case "--keep-tags": args.keepTags = Number(value); index += 1; break
+      case "--keep-days": args.keepDays = Number(value); index += 1; break
       case "--dry-run": args.dryRun = true; break
       default: throw new Error(`unknown argument ${key}`)
     }
@@ -40,8 +41,15 @@ function parseArgs(argv) {
     throw new Error(`tag must be <site>-<sha>, got ${args.tag}`)
   }
   args.tag = `${args.site}-${sha.slice(0, 7)}`
+  args.keepTags = nonNegativeInteger("--keep-tags", args.keepTags)
+  args.keepDays = nonNegativeInteger("--keep-days", args.keepDays)
   if (!existsSync(resolve(args.sourceDir))) throw new Error(`source directory not found: ${args.sourceDir}`)
   return args
+}
+
+function nonNegativeInteger(name, value) {
+  if (!Number.isInteger(value) || value < 0) throw new Error(`${name} must be a non-negative integer`)
+  return value
 }
 
 function git(args, options = {}) {
@@ -130,25 +138,44 @@ function main() {
   git(["push", "origin", `refs/tags/${args.tag}`])
   console.log(`published ${args.tag}`)
 
-  pruneTags(args.site, args.tag, args.keepTags)
+  pruneTags(args.site, args.tag, args.keepTags, args.keepDays)
 }
 
-function pruneTags(site, currentTag, keepTags) {
-  if (keepTags === 0) {
+const DAY_SECONDS = 24 * 60 * 60
+
+function pruneTags(site, currentTag, keepTags, keepDays) {
+  // A positive age window replaces the count. keepTags 0 retains everything only
+  // when no age window is set, which is what the shop publish uses.
+  if (keepDays === 0 && keepTags === 0) {
     console.log(`retaining all ${site} tags`)
     return
   }
-  const existing = git(["tag", "--list", `${site}-*`, "--sort=-creatordate"])
+  const listed = git([
+    "for-each-ref",
+    "--sort=-creatordate",
+    "--format=%(refname:short)%09%(creatordate:unix)",
+    `refs/tags/${site}-*`,
+  ])
     .split("\n")
     .map((line) => line.trim())
     .filter(Boolean)
-  const stale = existing.filter((tag) => tag !== currentTag).slice(Math.max(keepTags - 1, 0))
+    .map((line) => {
+      const [tag, unix] = line.split("\t")
+      return { tag, createdAt: Number(unix) }
+    })
+    .filter((item) => item.tag)
+  const stale = keepDays > 0
+    ? listed
+        .filter((item) => item.tag !== currentTag && Number.isFinite(item.createdAt) && item.createdAt < Math.floor(Date.now() / 1000) - keepDays * DAY_SECONDS)
+        .map((item) => item.tag)
+    : listed.map((item) => item.tag).filter((tag) => tag !== currentTag).slice(Math.max(keepTags - 1, 0))
+  if (keepDays > 0) console.log(`keeping ${site} tags created in the last ${keepDays} days`)
   for (const tag of stale) {
     git(["push", "origin", `:refs/tags/${tag}`])
     git(["tag", "-d", tag])
     console.log(`pruned ${tag}`)
   }
-  console.log(`kept ${existing.length - stale.length} of ${existing.length} ${site} tags`)
+  console.log(`kept ${listed.length - stale.length} of ${listed.length} ${site} tags`)
 }
 
 main()
