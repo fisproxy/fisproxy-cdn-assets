@@ -1,380 +1,380 @@
 {
   "site": "web",
-  "tag": "web-90f1210",
-  "commit": "90f121064521f3064c12d78413e0e16271d43dc4",
-  "generatedAt": "2026-10-24T02:21:49.912Z",
+  "tag": "web-ca76f18",
+  "commit": "ca76f18999ffd11de6f7d16bf6601d9b51728d48",
+  "generatedAt": "2026-10-24T16:54:04.353Z",
   "files": {
     "web/assets/accelerate-DPzTzaA0.js": {
-      "sha384": "iI3sdwEDGN8xb+QtxU7SRl8VZgQYXUArW7wPdIfM8da3xsvroQq9HwKmTeDafllI",
-      "bytes": 130439
+      "sha384": "Unxm7rlXUM87pFYI6UFn/tgXIZzWbfD44nX0i45lkdJ5j+0uu8qoBPZdL1WoKAEL",
+      "bytes": 130137
     },
     "web/assets/account-0jU5__Hl.js": {
-      "sha384": "VqWRsd11TpDJiyy9208bUSkDAd9yr/gsl6ztT8VGmuv7FyZOv/0kFgdMfdp9dIH1",
-      "bytes": 37983
+      "sha384": "0/7NQHfvQGy2dNGGXbJh/cI0j0PqF+Qe5AGcbgLBJs3o/6l1HIzRoa9SRNVY4yRZ",
+      "bytes": 38657
     },
     "web/assets/account-CDo7gynp.js": {
-      "sha384": "+X4PidP+RXrkqPvanlu9YxQE2seGEmMq0NmkqI5qCThjSiX88KvHnn0EyET/ZUD9",
-      "bytes": 80448
+      "sha384": "XnwqY7w6u91pFKWYdrfNHmgA9Tqh2xtX1eTgZdYo65fxBeivtSB2p+UjYQ7JYOyU",
+      "bytes": 80696
     },
     "web/assets/api-origin-status-PUANL5oQ.js": {
-      "sha384": "zhL4gbvFX1KvKZ8m6hZAvI3kIEHgnpWcJcAMJWDqNid8kTjtUWf+O3KpxAomnDj8",
-      "bytes": 49028
+      "sha384": "01L0hfaUoCLtjqIwMc8OZH/y5tjQ1eNYIiIGdcmpr7JB7iOPnEEcvjvE5qttCymp",
+      "bytes": 49245
     },
     "web/assets/app-cache-Dsi3xyS3.js": {
-      "sha384": "CQx2wEGc+N6Mn9vkH7NmcrxQMZL8j7AGo69ng8gq1Q4bYgGk1nWnTw2eJdTKsEA1",
-      "bytes": 14656
+      "sha384": "1t0XZi46qaoK/gTZMbLdCLJ0jSS8S4WEUAghp02GBgi9X/u9XG5g5X7sVQ1x8EmT",
+      "bytes": 14671
     },
-    "web/assets/app-shell-Dn0w-RND.js": {
-      "sha384": "D9+MCG/Aqlng43LT/cr93p9Z2MA2CjMZuqGk8Q9zts/5gUkSZO8KvHX3MXwVQvu+",
-      "bytes": 65552
+    "web/assets/app-shell-6178BUVt.js": {
+      "sha384": "qD7J3GuktsWETEJKSguot8a/QUwtuqv1I2uOFfRoWIkD2pSkNTpgJNJI/iU4qtFJ",
+      "bytes": 65800
     },
     "web/assets/avatar-CpbkRo4E.js": {
-      "sha384": "gGv9pQU8oYRJZEqdRByeb793rpPRtsWhmAfnrnxeDIN7YNDll7yEhMgpSxGbgfoT",
-      "bytes": 6228
+      "sha384": "UNxttVbWy2+YtWCQRA7elk2dlbNImizPTg1zQ1Az9YGs7dkpVckqUjEwvxga08MV",
+      "bytes": 6515
     },
     "web/assets/balance-format-CiETIb2Z.js": {
-      "sha384": "WIa27J9V2/9isuTGNseI8aoVXoMFUpfriB1H1Ivix1o9TEtvT4Vx9Bv1MSafkv7q",
-      "bytes": 6354
+      "sha384": "sh8SHaSBtmBMD3MU0E1D2CK1fooPFPcwszUZZ1C+O5LlfegPMIK7vr9rxs6LX63A",
+      "bytes": 6481
     },
     "web/assets/capability-route-D9vcmpRc.js": {
-      "sha384": "5xJ6VWGDfG3aLObnXBpuVEyGgzMoqzz94EW1SuvblLDlZYBi1CUbXBAD3CB+aOpn",
-      "bytes": 1789
+      "sha384": "t4mWdQvIL29urYJEGQ9zvgqwzA1fR7/zpHdLxbpDwcKkM6ho3wTbB/JF5wdwmBEr",
+      "bytes": 1887
     },
     "web/assets/cdn-probe.txt": {
       "sha384": "G5ylyplvaJGBcTfxLbL7u7eMX6stpV/ZOdgh8XGCp1LYcsi/57IHvMlxF6gsYFNQ",
       "bytes": 3
     },
     "web/assets/check-DDkrWRY7.js": {
-      "sha384": "5ZVqiZ49ownVwYKYzZYvz/eCMFZ/1yRCnGvS19+PpeNPFJVOXy/RzTKqULNpFfK/",
-      "bytes": 1055
+      "sha384": "BsAgri5xMk4hQbcR5iZ4TyZSeCXlwz6hpL7K78CT5wYPgFSAX1rbTHXRXRq14E0f",
+      "bytes": 1153
     },
     "web/assets/chevron-right-Co0VFw_H.js": {
-      "sha384": "Hc0zl3+UG5gpv6vXqDRPCCvK6k52osN6lep3n3bFbGkGT1Js9hI1IDbZrTQI+Q2I",
-      "bytes": 1102
+      "sha384": "1gAq+eAlyijKBwW7ZVyz9XW1w21YNM190Ux9drS64hmk8iu37TYHWEHNGwhcAcaG",
+      "bytes": 1115
     },
     "web/assets/circle-check-CYp3LvK5.js": {
-      "sha384": "Qwoq1VvyyWmEQ0mQjUjsAUpBDh/ruvd4jZqt85JSOgXD6WdkQOlnkqsVAGS/sOYB",
-      "bytes": 1236
+      "sha384": "WCQvD/dxfVSXl14YJUe9tsx5ZBAeJaY9oWJifgpfCXQlHHIKJ0T8F4c7YtqXRUOt",
+      "bytes": 1370
     },
     "web/assets/circle-question-mark-_6EZTJhB.js": {
-      "sha384": "ctbSTt28K52EPjr+CCSHGUIJnYdYZCk/vuE78dvVGzqYK7WJ4sNLhI727YREKnTx",
-      "bytes": 1245
+      "sha384": "sKuKQgDUSIV5/52b6GHR0VL++I4DJKDDlRzzZoC5zDcpa+orit8NuzR+c1Zol3lw",
+      "bytes": 1367
     },
     "web/assets/clock-3-D1Hw7117.js": {
-      "sha384": "8Og7I95n2a9L+Thirs4EDAw1IuzT8yKYJVNlpzosqJfysWcB6SenSKKYJgyDqPam",
-      "bytes": 1228
+      "sha384": "0ZaIunZB/JPurUxRGJF/BOZ1lXDDG3YgxYxpTN9lPTQ8PC08dJQauJNq/+Xxj5zr",
+      "bytes": 1132
     },
     "web/assets/confirm-action-BwzNYLnX.js": {
-      "sha384": "2YWs7hCY5YGrci0G9OwyKHSMQ6F2A08RMb6EwYAvMiU6gCLmTsKYpIpr8IIxir9t",
-      "bytes": 10945
+      "sha384": "MTMprPb9JVfQqEoYBE7+1EFlUecj9TO/RuAxY0Zh56hkY06t+QdF03WGZhU+Cykj",
+      "bytes": 11065
     },
     "web/assets/copy-button-tS0DTrf1.js": {
-      "sha384": "FtCp2sWs0ugOxMhAMe6Y1efuPgnun2pEZ3YM55gJzVr7vMkUawPsnrTRS6i3PzHR",
-      "bytes": 2178
+      "sha384": "u7BXELRbSbFV2Vu08ofCVL1tV2C+lxSbop7vPtTKek8fmOZcFXLvRJVdyMR1cc5V",
+      "bytes": 2356
     },
     "web/assets/dialog-DE1M0O6T.js": {
-      "sha384": "LygthPymnuudVjnyhmoODMuYwLYEPL1AEjUScSaEX1Gx3gz4GBtzHbheVm7m7991",
-      "bytes": 5775
+      "sha384": "uQgAwLv2rP3ec5zHKT43A4TA75fe015rrNd0ybeKoTsVYl2hB2vHyxyWCTLyhBVY",
+      "bytes": 5710
     },
     "web/assets/dist-B3-xvqEW.js": {
-      "sha384": "s6I1sJpd87mARFMPfaaI7Q0QdI6Qt89LlstPK3kZmathxj+qK+Z9uXpuXec+kjTh",
-      "bytes": 126621
+      "sha384": "8zVzg5MbcyiHYSa99jaqZPYK9N3Lqxs796658ZA/mhGo86AhRv3We8k5Mm2FG1Ci",
+      "bytes": 126664
     },
     "web/assets/dist-biqjFuu1.js": {
-      "sha384": "P/zjAgM+BtGJRniEJVS5/Jl+J149t6NYxtW0Pz50LsA5rqIxKXMpLCmdW2M8hfG7",
-      "bytes": 1474
+      "sha384": "6s2skHayENQLe16UmPVejIfQIIAns7FdCrshM9c+FALX9YJkOqPs9AiFsIIsis0t",
+      "bytes": 1586
     },
     "web/assets/emoji-mark-ClRwDg5L.js": {
-      "sha384": "IB3+9X6Irnc3DPQ49+XHbWpFD07NDeqI2UBQ1cUtvNDMLz995OUNFg34tZvzXPjY",
-      "bytes": 404214
+      "sha384": "qx9Fbrg7/mdLbRhiNwdhnHWFgRI8//6wKXN+Cko8EwtKZGYXfCKcN+86lgf2iFh/",
+      "bytes": 405008
     },
     "web/assets/en-US-Dvuc4q-u.js": {
-      "sha384": "71CoQ5goPytlMAA8UT3XMWMx7sdyLZ96eyoJUWMFNe5Jf3o2eOjq0WS/EX3g93yC",
-      "bytes": 81049
+      "sha384": "zZq1dqZbexYpvwBTcCAK4R0vLM0V5D9zG3Y/RF/753Xq4W3BuwyTrkmUKc+thirv",
+      "bytes": 81470
     },
     "web/assets/external-link-Brb-sjnX.js": {
-      "sha384": "i15oIqksp9EoGxuvRlJvMB3YTHZapC+uye3vfoZ2aarkvIBzHcLPTumpRYiKD1mq",
-      "bytes": 1362
+      "sha384": "uUstCo+yi/LYq+/qlKvlXLqfdYWNvM2El9imjtEbV/6nKHBDsVh3vJwgDTwpwJG8",
+      "bytes": 1344
     },
     "web/assets/floating-portal-ZJyYfN9i.js": {
-      "sha384": "qb56UFuRon+G84LlL3a96ppZTdhvNeRE6pYc4OAU/VMNebdckNjZNHmoZMdpzA4c",
-      "bytes": 2120
+      "sha384": "S4JwJdIIQ//xvI8fvoCEjfjZoCDYcmjzKGZ/BMtaBIH3ICq7c2l68wDYDfzeJEzM",
+      "bytes": 2163
     },
     "web/assets/fun-D0dQERUt.js": {
-      "sha384": "Y2YvLBwj4obCIl8YrsfglUMtR61Yx9roLhzUyLOLfplW8ZER0XQQ0N0IyZMhces1",
-      "bytes": 31075
+      "sha384": "pAcWdElXzdSWLxx1Qr74EBd+e+ffLsy5fXuSCSlfQ29OfFxFssjS4mSMgp852j8A",
+      "bytes": 31044
     },
     "web/assets/gamepad-2-BnMj5F-4.js": {
-      "sha384": "Pe52URwqnJ6c4uv2gmH99KSnbbFXZCJyEmXhAobsAXFg2WF9GMVv4ZwhkLmXSbKP",
-      "bytes": 1912
+      "sha384": "rS7/Sxc3soZCEl+wpiADwK+HkYZ3FF4/V5VYeLUNR607F++eGr1NPAyFi2IqMWX/",
+      "bytes": 1917
     },
     "web/assets/gift-Wt7jhmD-.js": {
-      "sha384": "zWzknS7dq6eyo1x+9A+7a7gUI+pGz6GkEd3TyL9QMp017Zr+4k9nyu8LvglBBk+y",
-      "bytes": 1605
+      "sha384": "LXdzMaPfaHIne1N8ubuCT6Yk9o4meFTFOOEc6yZCFB4UmqbufuXWiBfQvIugBLMB",
+      "bytes": 1513
     },
     "web/assets/globe-C56kzd-4.js": {
-      "sha384": "h5WR6Sfh39pZzoe0Ou8Jq82tlWIKPPQysfJfVVHi+0/cJsx3Nqi8BinaTGYLxc5t",
-      "bytes": 1325
+      "sha384": "xLDZ6wdgSy6jHXguS1ThEGgZOzUM31kvmxl7lOSBRX1qRRkdMo3zg6oKXoilUVA+",
+      "bytes": 1334
     },
     "web/assets/history-C-gByjHU.js": {
-      "sha384": "mEfun7UCwPqRY18HWLzadKChVOp4VA4VPsgib/qsrvuSgKrB2dgSVVC7vWaOaYXq",
-      "bytes": 28530
+      "sha384": "PPNBXKAL2uiV0d3fZejqfBkRf3xeodPXY1DfCgxrJ/E6fO+8n1oDX1egTfZ8somW",
+      "bytes": 28621
     },
     "web/assets/hover-card-CXod0B9I.js": {
-      "sha384": "fmnGDJGi90ddEOheBarCIH7ZWA1TXr/vKKNz4tRGXEFxZMuo3O1wNL6GnwZ19rx5",
-      "bytes": 13524
+      "sha384": "fPVi4FKFic61IrjJdWAxjFtpOBuL4aCCfa+dNtWOTanXTF+nhffxi1ZiPTEUvm8D",
+      "bytes": 13710
     },
     "web/assets/i18next-CPbjwiMf.js": {
-      "sha384": "EKlQR5fjPIqEjIk2Md3w5Z2Y1/H0tMzgwVxX2gBphYX0h6xi0XsXQuEVW5XZ9afO",
-      "bytes": 85626
+      "sha384": "vM/06XX8BFjfgK94CyxTLbIIJnuvfAdhPbX21yzTx0xEkhd/KRm8qS7vXHmL52Ab",
+      "bytes": 85271
     },
-    "web/assets/index-DSSbZcGQ.js": {
-      "sha384": "Lrqbi+MldblfF+xNPUnXVG/VZMM/8nV8ONfWWdFJJWlLOMIHYfZaSF32wcMyMaSQ",
-      "bytes": 425513
+    "web/assets/index-D_EgZKA-.js": {
+      "sha384": "CQ2Z3lFG4hMnG4RgO/fP6jihPA7/x8mvgiVWtuUtqwW1nsb3KkbquYUhS0jenbcr",
+      "bytes": 425186
     },
     "web/assets/index-DvvnYkpX.css": {
       "sha384": "1Uij7syNdpzUzq3XaDDnmlIEJ1Fxrolh/Ptkm5vkdSlWo3UT+ACuPgsHAaXjETwb",
       "bytes": 133090
     },
     "web/assets/infinite-BA32vpG4.js": {
-      "sha384": "pB7m4lkTPgWy7SpSar+wkqY9PpiRI7cuZxJ5a2WwklfRP8S+/i3reKrSaqO2KX7D",
-      "bytes": 7707
+      "sha384": "WPbmF8HiMGEYPCwV2SQSVKzC+ooOkvwikucqhdpInT9urkzhN6gvljDFXTHnFcX5",
+      "bytes": 7677
     },
     "web/assets/info-BADG_r32.js": {
-      "sha384": "NiyIh7SjZJaEpnB/IXNQS0tHjIlMWZBfTGLvJwWYZ/gb2j0B1DKqho3xTDUuoLIx",
-      "bytes": 1238
+      "sha384": "+jnOduJC/jO2pDbrydsbhYXVRXdFFi0HmtkihZ6kQiZIutA/ulgfcP1HSjZy4onB",
+      "bytes": 1364
     },
     "web/assets/info-panel-BsfeXchu.js": {
-      "sha384": "qCHDiQNGRlGh4o1EJS/OWgfxMtk7sN1Dj7l3Oabm56W4b3memSsF8MuNUfQrSygy",
-      "bytes": 2374
+      "sha384": "hMmsYBk13RC8fMTnCR0RdHJlL+tOLXG4iwYQkvxhJNcPVz46bydnlyyehmEBZ7nI",
+      "bytes": 2355
     },
     "web/assets/input-D04C1qeB.js": {
-      "sha384": "SzDbkNK99SgB463qcLOI4yWaTf6inmJtjnRhyI6ELRayXk2Wh0ZoledTrwyJgO9u",
-      "bytes": 2284
+      "sha384": "APuLM5x2/NKZVTl13FaI5fE7yMGqi2yUmhUypzT1VOuMjLoLS3xz9XU1oYTa1t+M",
+      "bytes": 2234
     },
     "web/assets/input-group-Bb23Z_K7.js": {
-      "sha384": "byq7PnHnnVk+YWeOp6nMpJJamX0On8aYpsp0U/wrEqz41bWxqj58kSdvLu14WWEc",
-      "bytes": 49371
+      "sha384": "cR6VrZwdvZ13WeJ3Ko98dMEfhTwEaDSzvXltexE9iuU6wGpKX0BOOobx+z2HMaF/",
+      "bytes": 49035
     },
     "web/assets/irc-chat-list-C1puYnsV.js": {
-      "sha384": "wzOlXy8GmJVFhywinYxvJ5ejI5/hOOp60XIqVGgKpb0JhZHbO45g8YEdKv3wgQ7t",
-      "bytes": 10809
+      "sha384": "QJJGYV+7Csf+5ukTSTOiYoNbPYDWmzzDhyBmmYTIQdVnxuejwedcC2feYVLegA9F",
+      "bytes": 10648
     },
     "web/assets/irc-hHAT2mpk.js": {
-      "sha384": "RCH0+8O2t6AnBIPp2pA4RCzI5fKgNzkIePj9Nx7R59FCSOXL8HuP72MxvkNFPDXZ",
-      "bytes": 27067
+      "sha384": "yQQ5kPZTNkj9X/qqov+QHcTq89SRdHJn/udcQ9B/6uGhl2UR+Iz/BaGGHF/rUCVq",
+      "bytes": 27353
     },
     "web/assets/ja-JP-8FblmQsy.js": {
-      "sha384": "O1AlM0o5/htTpePbMICaUZOBLRY8O0xYZKITWPCMKJZmAv+K8xnt8LTI4VQ6cTGk",
-      "bytes": 85271
+      "sha384": "I9VNoB/LudpxpwhS0/qtyw4TUCdBLa2ZMyJNVO2SkN8uieNZ8bvj+noSc+umDCyM",
+      "bytes": 84892
     },
     "web/assets/key-round-fuT1qs9T.js": {
-      "sha384": "Qlq0GMJByt0O5xWICZ6rUR4zFVgwcdzMb1g8qnQUBF8t6fAUXV300cm4TYzpBpGq",
-      "bytes": 1596
+      "sha384": "BZyuzvHwJQQAckCN6BHiQ90k2p3ejSg0IZNCkHdYfgONDs0yQKQADd4RLg7Z+eMf",
+      "bytes": 1575
     },
     "web/assets/language-context-B68GA46-.js": {
-      "sha384": "Pbt4e6IKEy/58EtKD6yvwkJD5LFw20qscf9MemRprFY6LDdsoR4vtrMs3N+6KFSJ",
-      "bytes": 8012
+      "sha384": "2olKNL91ODtjfeXXeNGTrvq9gIFsPSimdTQqbWGzjEG/cSjIIm5zPiS7n0iWaQDL",
+      "bytes": 7895
     },
     "web/assets/list-skeleton-BWPEtodQ.js": {
-      "sha384": "LAlHmdAS+RBwmuhcf3VAh/B9fYgkzQpP58ZeJVhuZp+fAmwz7A2ZWiTRnR3OcqTB",
-      "bytes": 2060
-    },
-    "web/assets/list-toolbar-BANkj_zj.js": {
-      "sha384": "zgX7WqKPITsXHDcw6UTqAZMR6pkE+tCiuougx8Q2RQX3LsTb2n5dNVlDXW8Wbfjx",
-      "bytes": 9908
-    },
-    "web/assets/log-out-BgyE6DA-.js": {
-      "sha384": "+woUC33GERL8u5n+aY6A7c5QyPSaz08qiFK/a57fdYPxG2pdezBF6nYb2YyA5ahH",
-      "bytes": 1918
-    },
-    "web/assets/login-BrxzBsmT.js": {
-      "sha384": "EvCCZXPsz5TV8UxVaEnFFLo2HftO3tPHzg59Ho89NW7GwGy0LUOcuATBVVWpW2ke",
-      "bytes": 98820
-    },
-    "web/assets/management-extension-loader-DMTTgrxr.js": {
-      "sha384": "JDrAAeS+WvTy1JT1n9qdkCnsJRlsUCiFJMbYfxd/XqxgGDWj4RkTwshUSOrqTTHo",
-      "bytes": 34149
-    },
-    "web/assets/media-GTcRXG5S.js": {
-      "sha384": "CZMFE/3UJ7sA9WmyVh9ptZV6Jbsgx/qNlT2s5wrUlsseoMf+ur7be4GrtwK38xPD",
-      "bytes": 41699
-    },
-    "web/assets/megaphone-KIrKZbhj.js": {
-      "sha384": "fInBmVlp0J6W7ItqPFDS26xTVJVb3a3IxzIGi4uvrAq9ixYzsepg2aGKBspTxCtt",
-      "bytes": 1646
-    },
-    "web/assets/metric-grid-BxZXFo7p.js": {
-      "sha384": "DfiNWhE6TTvIn6LJ74ebrMKOLAbfq0SwH1Nz+ljuGa1oTeIHgB6T/xUkmdc3/Pvo",
-      "bytes": 2762
-    },
-    "web/assets/motion-B-6e9IOA.js": {
-      "sha384": "n59ZmjnSg+U4ZyZCNpBASgMclWkX0UPV3ITi4xhHfJmbXSOkq12MSi9mxW5Y3jnu",
-      "bytes": 5372
-    },
-    "web/assets/mutation-CpTZ27PK.js": {
-      "sha384": "ZeoUricQSHPxhnteZc9y7KjfL/sutYVTOtYY9vcK9MRTg5a0MismUI7pJSNqKVNX",
-      "bytes": 4592
-    },
-    "web/assets/pending-label-RWaLEtT1.js": {
-      "sha384": "28yoNz7c2F/74YoaRMtbqtf1QHIwB/0e+zYLVktU1RM3y6u1YV08p2i5uTdkhd9X",
-      "bytes": 1622
-    },
-    "web/assets/pending-panel-CWy1YiFA.js": {
-      "sha384": "r/V7uuXkueWJAaD5iVpCDINDk+omcj2ECtzGkCb5jgBaPz2Myoa5E+F0QHxeL/5V",
-      "bytes": 2018
-    },
-    "web/assets/plus-Cs1HmWSk.js": {
-      "sha384": "xWVtWy4MlCaqkSvaZRDIYNd8YvZgNmQGSArxJInUajXpJN1WDXYgNQBkzCSiSdrA",
-      "bytes": 1186
-    },
-    "web/assets/progress-DS-fmDYw.js": {
-      "sha384": "9gW9nARgVc0zCLmV9E6LU8nWDJ6j9u9CvsNWRRl0KR3sd2YkYodrgTwMRjD+YrCL",
-      "bytes": 7219
-    },
-    "web/assets/record-card-W03Erel0.js": {
-      "sha384": "7aDHCW+zeUr8L0fVj+4OUTjzlXB1zYHsxP/0U6KBb0EK6cVCSBxGTBpVh1aqskMv",
-      "bytes": 5670
-    },
-    "web/assets/request-signing-YEtVPvQ2.js": {
-      "sha384": "ks93oSX4Sd30120JPAPg9aEopOpEDTr9EynHfAIryUxHZoS0rNnyv8JwRpYQN6nC",
-      "bytes": 97445
-    },
-    "web/assets/rolldown-runtime-Cyuzqnbw.js": {
-      "sha384": "qP0M9x4sKA3M5o7w04YRssxf5zfJjQRMIWRwl1K6lU9SOSfzoi80D3/HnUzQOXOg",
-      "bytes": 2571
-    },
-    "web/assets/route-loading-state-C93eyBZH.js": {
-      "sha384": "Lq2GpsaPE4u90iOw9Y6WaFFmSgoJaxqTqrPFMWjfi1La2F2zD3Uca+EbW29sj57D",
-      "bytes": 1822
-    },
-    "web/assets/send-aD7lErVL.js": {
-      "sha384": "eU4CB5fYpGhLl7uhZriaqTbcbucZiqdkK37xenbw8H+efQxKpN3VuCTrMO4/ozeE",
-      "bytes": 1291
-    },
-    "web/assets/sheet-DGCxlDpl.js": {
-      "sha384": "mFXEdaQRHgCRmGnybT1Fz0JvM7028iD3u2/UA9JFgZLJe4uUx49bw0yVjhQaWm3n",
-      "bytes": 5707
-    },
-    "web/assets/shield-check-BM5nrz1F.js": {
-      "sha384": "7klnReBOdjBF+11i5os88Fml4vzZtvZEHWWJr8ZVaBbPZJrKSZ0Sc75MQbb5Dcg9",
-      "bytes": 1551
-    },
-    "web/assets/spinner-D6trPWbk.js": {
-      "sha384": "b1sRXLMv4jtjkJCm8JXK+dA5pqp4mA+K4XV9LKOJUtDyEJu/MaVJ3U49l6puT681",
-      "bytes": 615067
-    },
-    "web/assets/status-badge-_l1zNV2s.js": {
-      "sha384": "QwFdA3vw1HjaIHx3dZYXnhdaAnzLrdUkstW3duAQEUffytzQMs/dTjsnrCRqfeVL",
-      "bytes": 2217
-    },
-    "web/assets/status-tone-D7Vz57ph.js": {
-      "sha384": "gQhDzdiXN+wd9iKJsvDxM/OPyEk4xhAfMZvptRG2CfWSLUHE0+JeyrWRtlhEiI3F",
-      "bytes": 3177
-    },
-    "web/assets/switch-D6brErnU.js": {
-      "sha384": "RI2RunDMU7UFnA7t4/IfjuVppozakazyZZETvQhRLYENHtTtzfl4c+WISckcB3hD",
-      "bytes": 17324
-    },
-    "web/assets/swr-cache-CeysqI-M.js": {
-      "sha384": "LbQdcR+Let2mQfMlBEoiGxtGPW2WizsE5R5rWiSVUBhNZfla4UeluWa8KfYgefPc",
-      "bytes": 2694
-    },
-    "web/assets/tabs-BG2NKo7s.js": {
-      "sha384": "UbnEV1IvoOvOLjKSl7K8lkhktej3Uq0JnWgDwNHnwoJ4wOdSzO9+WZaFLJHnbRyy",
-      "bytes": 9627
-    },
-    "web/assets/telemetry-runtime-CLsL-TdR.js": {
-      "sha384": "WjvbQ2E7LV8FbV+21ctBvARO17PNXtjA4iJir+TsG7HddUTYXcLbEdIRXzk1xvXR",
-      "bytes": 1756
-    },
-    "web/assets/textarea-poQzFuPE.js": {
-      "sha384": "KIg4BJhM8YzyZqjfBsLMZct8Fqx9EM3fcWXbCNxb/BmVaSE8rP87w9iOjx3P3r02",
-      "bytes": 2130
-    },
-    "web/assets/ticket-message-body-Bz0yOv80.js": {
-      "sha384": "Prtd9+GWd9Hi9ekVRDOZnU1FpjViAIsyqMC739gGAYysM2rjyMR2V1+9kY98wHNJ",
-      "bytes": 340001
-    },
-    "web/assets/tickets-BD-T2Xpl.js": {
-      "sha384": "Ub3w5/nOmbjTWk59zqX9VQooLhWSszJbaqsQkofNLg8aJ1nryFkaIrk2NKzHxI3f",
-      "bytes": 2265
-    },
-    "web/assets/tickets-BvNhTXI1.js": {
-      "sha384": "SQvpIzbTJnjvnEHDJf5S0jY9VzxTtepALX38z5ZPXUarCsrTvXpP26xdrtOLQtcw",
-      "bytes": 37061
-    },
-    "web/assets/toggle-group-CPdw14l-.js": {
-      "sha384": "Mk8H63LfJX23CSKgDy5g+MXsdZf+eMHVRkaDcLjoS6ywk+ZNYf1ZHr9FiLvUGDee",
-      "bytes": 20133
-    },
-    "web/assets/trash-2-CJ7YGpdE.js": {
-      "sha384": "2GvFgN40kM9p+B+RiRJoileGHwbeSW1zZvowbtLQBTP2iGmMCvPOrjwAVfr9ZQA5",
-      "bytes": 1398
-    },
-    "web/assets/triangle-alert-C5eZx4D5.js": {
-      "sha384": "YvA/qH0/TTcBOzDz6R1tz1xQY/NM7GBOSAbtgGZADsMXI0dtyjgGb+sOn1Lxo2Ei",
-      "bytes": 1437
-    },
-    "web/assets/use-copy-BJJEVJQ6.js": {
-      "sha384": "v7z6w3PNuxaMMUQvn4wUkqDf8J1OILAxcPXHoRDX24wYkgpO18ZfIU+42/bHmork",
-      "bytes": 2418
-    },
-    "web/assets/use-cursor-pages-C3Oh2Tx1.js": {
-      "sha384": "8KHn7+hp6tf1pjuUeegm4roCQnApivhfN0PjfN3ms0HPdhhePe4A9wEtIbYkY7MC",
-      "bytes": 2135
-    },
-    "web/assets/use-debounced-DGzD3iyZ.js": {
-      "sha384": "EYN5lW6CR9TV/9jwuBaZdXahnqAn5WwweXqUTD/zQmaRnDtjS+aFGVq+wXR8guOY",
+      "sha384": "K6RzqjbgPAcfqoVHmoQgARHjT2GJdDbgzZgQM3g4SBsCPWDIMfxpgphNW3V8EouT",
       "bytes": 2057
     },
+    "web/assets/list-toolbar-BANkj_zj.js": {
+      "sha384": "tK1JZUQz4GAqbmtrKPgNYkh5kwRPh4dazVej66L9HDIL6zzV/9Hhdg8s9aqPK1Vr",
+      "bytes": 9892
+    },
+    "web/assets/log-out-BgyE6DA-.js": {
+      "sha384": "UEqJC7QTPBGLdePQzAO09kyb3iLQZIRsDk6xMQTvh5NYwVa8XNc1fxhTlVQi6uBu",
+      "bytes": 2105
+    },
+    "web/assets/login-BrxzBsmT.js": {
+      "sha384": "R2GNC9cUxalOe/2X+DuUCWQqUag4qyQ/SBcPGZTyOTO1ucBP518AhClJcsLOFtMe",
+      "bytes": 98479
+    },
+    "web/assets/management-extension-loader-DMTTgrxr.js": {
+      "sha384": "WL0DX2PSpfhxrXp4NUo3fyKiHAakKZuTEnF9tmCD5K3bVVgSRaoamFwTnlwLWUgJ",
+      "bytes": 34167
+    },
+    "web/assets/media-GTcRXG5S.js": {
+      "sha384": "4/qV2EqgTVwgl9jsuMZuOoQ+NrBUhyW1EMncQfl2+cfEejmwIfFyQ2/r9o457YTw",
+      "bytes": 41607
+    },
+    "web/assets/megaphone-KIrKZbhj.js": {
+      "sha384": "54dZ7sZ81gE2Erqk2IHEmohmoGDfPyTGvxfcPVwkrxfvElS3vd02v4TuD7bIig7D",
+      "bytes": 1468
+    },
+    "web/assets/metric-grid-BxZXFo7p.js": {
+      "sha384": "2Fo2U9+ecB1yeWztSzhhZXcrKajhub+hXGAi2lXcon8Ng3Lex2xThTYG2ff5Bnyh",
+      "bytes": 2855
+    },
+    "web/assets/motion-B-6e9IOA.js": {
+      "sha384": "9nN2GKiAe82QfTrcH1FcT3MrhVOc1KCPvTgDXfHf0FVLRAr5jRom+1HiqzSfAO3+",
+      "bytes": 5323
+    },
+    "web/assets/mutation-CpTZ27PK.js": {
+      "sha384": "lWmn3Z/VaLmNqRoTLRfvVr/KCWZ+iA3IxjG4QR5hqVs9k8NcXuYQUDveMr/FayWS",
+      "bytes": 4581
+    },
+    "web/assets/pending-label-RWaLEtT1.js": {
+      "sha384": "HYB9lCPKsGvpzJUcMzQterd0DEJMRuACYQvljQRM1aT4wFAueis/yWCUIPsOGxz7",
+      "bytes": 1584
+    },
+    "web/assets/pending-panel-CWy1YiFA.js": {
+      "sha384": "z4xQFuDxmVOI36qUXERTdLAet5wH9FMZEYaNJ8k2y84r4l+iYkOUoViAzOP9PhCy",
+      "bytes": 2181
+    },
+    "web/assets/plus-Cs1HmWSk.js": {
+      "sha384": "RiQbEdZdylp2ylre2oAopqNX6mAO5+rv/4hXMxY9dr6LERrmGvIUs7Kv89SoqSrp",
+      "bytes": 1147
+    },
+    "web/assets/progress-DS-fmDYw.js": {
+      "sha384": "GB6tOEHymn0UNRKbgvv2Xw3WupjwM+s4UeHMIvVEVJkrEsAOuDUYyT/nz6z+8LJf",
+      "bytes": 7451
+    },
+    "web/assets/record-card-W03Erel0.js": {
+      "sha384": "n+LWzqATw/inRM3w2Nh+Mb8j05X8Pa3ZttxxyxSigA6FB3yu46hWE2ZiblTOg3xT",
+      "bytes": 5944
+    },
+    "web/assets/request-signing-YEtVPvQ2.js": {
+      "sha384": "gAu+ak0WF+lk65hyCH6KNAs5qKY2WWfyv5I0Kg0PfGZz9OzEFOawsXME5gRrDjJC",
+      "bytes": 97534
+    },
+    "web/assets/rolldown-runtime-Cyuzqnbw.js": {
+      "sha384": "09+DPeTq8JmN6K/n2hPKRzm6OAA24derMqZ7OjK3U/rDcn5xyjkX7jNSKi3NnNEz",
+      "bytes": 2670
+    },
+    "web/assets/route-loading-state-C93eyBZH.js": {
+      "sha384": "9feaUgmR5b/qtIaFVioaHj93bNQm+/PEdmDFI+HfHSO4gE523ob4OOA+v1Le+S11",
+      "bytes": 1998
+    },
+    "web/assets/send-aD7lErVL.js": {
+      "sha384": "JBSO07FB2FyTzCVvdl3tJaHsaKD3HBKvOfB2+Uqo+4/fzjExkzK6sboLtdGu3rMZ",
+      "bytes": 1452
+    },
+    "web/assets/sheet-DGCxlDpl.js": {
+      "sha384": "m08gFPwh0bx0c8Jm3hOv/wdWNkEbmc2YiWZ1KN23dATbAfIF/rfoFTLpTfXYljwd",
+      "bytes": 5409
+    },
+    "web/assets/shield-check-BM5nrz1F.js": {
+      "sha384": "m++BPDTy92lMDjGBH1NgYNJybmmq4uY4T2ErkwOjmZspfErTb54k+s9kfPJqqPez",
+      "bytes": 1600
+    },
+    "web/assets/spinner-D6trPWbk.js": {
+      "sha384": "MmymTX4fZoohJh4EMcok7/6dzHVD4XeJSBBmDTasenA4vJX9K4AHKBqpAI1uyBqx",
+      "bytes": 614713
+    },
+    "web/assets/status-badge-_l1zNV2s.js": {
+      "sha384": "KpM9Cm6VDi4LxxodYe8ErcA1T1fLEbzT/iz8j2n+GqA8gDXIJDqE7TjTridrCN7z",
+      "bytes": 2082
+    },
+    "web/assets/status-tone-D7Vz57ph.js": {
+      "sha384": "6ZFyLqHMAjeaBo95WtUdkcf6SW+YJKlfvQpYdv/aE3tP3xe1XfLnZ3nnuxpgaWNR",
+      "bytes": 3098
+    },
+    "web/assets/switch-D6brErnU.js": {
+      "sha384": "pUvpx7Vp2xUIImZq9QP8wx56sHqkdRb1kXZ7rWPSNStM8+KiWw0PxHQQ/ycFtiJz",
+      "bytes": 17532
+    },
+    "web/assets/swr-cache-CeysqI-M.js": {
+      "sha384": "VJ7JLSJmCAxWU32iDB1tWUC51sWbrXMSBZ33zidQ+24uDiROkRYu5ghuz+OJy4Qi",
+      "bytes": 2798
+    },
+    "web/assets/tabs-BG2NKo7s.js": {
+      "sha384": "29vLuqT/s/ZrHACxi/4+ghCHMtIrn9YTg/qem2kTerfz3oD1574GXzqzIt5LriPi",
+      "bytes": 9520
+    },
+    "web/assets/telemetry-runtime-CLsL-TdR.js": {
+      "sha384": "crVkxqpMTdhiAcrDmhzjrbUyGpWynj3tAIWMIkAbnuTUeo0ickpsZ0fU69TxQoAw",
+      "bytes": 1694
+    },
+    "web/assets/textarea-poQzFuPE.js": {
+      "sha384": "QnY8O2KUX9U0V76KEwyle/Vx7mkSjfGdGY9aihiUhC112Tc4MS4xV1pFKaTpgT1e",
+      "bytes": 2051
+    },
+    "web/assets/ticket-message-body-Bz0yOv80.js": {
+      "sha384": "zJyok3sTlzaGWtZa64mCfPJCCWAGXlKdp3+ozvvOOkmfO5tJDaqMtTmgeOyRU39r",
+      "bytes": 340450
+    },
+    "web/assets/tickets-BD-T2Xpl.js": {
+      "sha384": "a9UG6EegALMLATWgJ6HLBeFYt2f8bDM0BefZkCqmQoiankXwombjKs2egPK5ZsX/",
+      "bytes": 2271
+    },
+    "web/assets/tickets-BvNhTXI1.js": {
+      "sha384": "66eZy1VsWcCLKe/ZZwNc1eObOfvjmpCnrI6NIJEvRH1jDEDZe1HTHIAU6c1Znijp",
+      "bytes": 36350
+    },
+    "web/assets/toggle-group-CPdw14l-.js": {
+      "sha384": "WL4ukK/OQAjciO1JICK6uyFY9+Ay1Nud+4hVHy9prFpTWgUWIhQmGhvvHvA7hPA4",
+      "bytes": 20198
+    },
+    "web/assets/trash-2-CJ7YGpdE.js": {
+      "sha384": "kIKYGCP1UbzkWQ0dsNjq8+rYJYdxxcuTt25d/p4Ih/Guvc+uDwGUxQMp97HU6nQf",
+      "bytes": 1484
+    },
+    "web/assets/triangle-alert-C5eZx4D5.js": {
+      "sha384": "LI2+Kn3aXTufmawMuaw1pccVG510j/csIjH/xpF4dNWqihtaEpWftPEiVgcjVdLe",
+      "bytes": 1422
+    },
+    "web/assets/use-copy-BJJEVJQ6.js": {
+      "sha384": "pQiT4RHU+aJI6jGBBCOX97yyPcnOAb4ttbmqWWfXdrGTNHHtIyOKuek28estRbC0",
+      "bytes": 2366
+    },
+    "web/assets/use-cursor-pages-C3Oh2Tx1.js": {
+      "sha384": "FJgVulunY5W6yfhekNPfWHAFDpgr33o1+UYpQsDu06hWQqX4M2g2Vtbc5LV60M6Y",
+      "bytes": 2047
+    },
+    "web/assets/use-debounced-DGzD3iyZ.js": {
+      "sha384": "Jl5BJ+2f/J6fpFk2m61VjKjwV5C+8G2xljXLfn5MIW06t8SOfmVHnTwJfIdBAC5D",
+      "bytes": 1989
+    },
     "web/assets/use-list-viewport-style-8hHeKt9e.js": {
-      "sha384": "UI+B7OlQHskkQzsJzToD7/6VCMv+pikeTe6/f7gQ8ev7IMGBJ7VJVFauyNvLm0DA",
-      "bytes": 6425
+      "sha384": "gDVUNAI5bfs0G2VqOeCn1hPh+sxFNx2w6rQzt9iq6T9XJsuTcvfzK0S799AKWWjB",
+      "bytes": 6338
     },
     "web/assets/use-mobile-prcohSp3.js": {
-      "sha384": "NiasD6xnSBey6Y6xD4HTI0Xh0oit+LF6xr/biiokGvT1OSvEb2b+HhZwFd3B435E",
-      "bytes": 1870
+      "sha384": "fHWC/mvu7war7H8shp/uVOWlrXk1fjt5vNJkXFXsXhHh4SGMkmqV3VXgE2mR4WvZ",
+      "bytes": 1995
     },
     "web/assets/user-api-CuZpJjeq.js": {
-      "sha384": "gPujzFMCy1Kl0Ki6JA7h3fUHlO6Ug7Kmam7POotPwkIJQp5I0mVq7DDA1a7HAt+h",
-      "bytes": 13383
+      "sha384": "rSDsXSyTIxBZdTozsVzeiGD0m4awKLm5ExH0M+K1KUuzbeyF737Moecl6+1DzeJE",
+      "bytes": 13435
     },
     "web/assets/user-identity-C-cNOo4H.js": {
-      "sha384": "q3Q6QJ+tK0dc8j4LM86MawH85UjwoHyg/3ucGS7rPSHPeleWp/XNtuf0jFKN+D3r",
-      "bytes": 2927
+      "sha384": "KML0JJcx17RYwkyEP2XlTa04aOzOvRjoxwktiCM/JIKfWDGFaUFGLomIJpw0wj8X",
+      "bytes": 3033
     },
     "web/assets/user-ui-Yk5xYcUO.js": {
-      "sha384": "SwG13CC3Pc/6/aZPXS/LL62SKgHZK+FYNzFdqayLKaa/jLEutleTdUmXY9787voI",
-      "bytes": 104598
+      "sha384": "hr1apQYjmKlcmrG0N8rCErrFvJ5XPthEd1fYtf3PaJ4a4TdrYKPiNsMumTX6sYrl",
+      "bytes": 104787
     },
     "web/assets/virtual-infinite-list-R65aSwFp.js": {
-      "sha384": "FAeAJktvzj6ra0GIa6TL3XH+rnPaZzCCHkyOIy0FbE0pyVdFoNX5vQZYoEfH0SON",
-      "bytes": 5571
+      "sha384": "Dh0mtmcTAUIyP2UovR55HZRhKJ8VgsirSLy4mQt7KTaVkpcy/HsvToA5HKBL0Jl6",
+      "bytes": 5455
     },
     "web/assets/web-session-client-C2VLka6p.js": {
-      "sha384": "21ctbCmUmJVoM8SM7OlxUJCrh7OeKYczMhu4iJERvd7Wx6D6Tg3NbvsLQFQVH80z",
-      "bytes": 4925
+      "sha384": "KwUjKE1kxRmD5DohdihGAVP/gghFy2BqCd6r6gxx3x97RCdcXbRn2eyN1Qv4tfKM",
+      "bytes": 4973
     },
     "web/assets/webauthn-errors-CBzwGGpr.js": {
-      "sha384": "x9W5Q/DFAPioF2+0u5W/+xVAi1ieJ93ZUD9JHVGTvwaE8QrGc1TCQMIlrCZtuvp1",
-      "bytes": 17558
+      "sha384": "yw4HANhDFWuCGfHVMjjtJrb7DM31QyXW+Ix2srDzmYS5qn/4IVylpzTo2efac4K/",
+      "bytes": 17585
     },
     "web/assets/workbox-window.prod.es5-Bd17z0YL.js": {
-      "sha384": "dQJ7DTGtu91WvNP3B+A4tBiPhroGC9bTQuXxx5bHZx7pqWGxZrWFoSEAMy3Tpc40",
-      "bytes": 12873
+      "sha384": "lGG+GTqCU+ohwRvtlek9JoGeY88B02WXRsCmu6Y7fKuEPoppwheEa0/y4vn5zmuf",
+      "bytes": 12817
     },
     "web/assets/x-CFnGTaWl.js": {
-      "sha384": "Tcesj1wt8KftO14P3anOh4B816+yxVCvx1juyMpeGfO3tihREsAtwrPhU3h+r19/",
-      "bytes": 1101
+      "sha384": "RrWT93/F0G7KGrQEmWTmuiADb3AC5kG/BUJuKsUvdWZ9qe5NNoslHArcbeqggYJB",
+      "bytes": 1210
     },
     "web/assets/zh-CN-DNbf9Zxa.js": {
-      "sha384": "XvgDbQAoSpbZKMxm1vdaAj+NAc7Dm2veqCoCxHxhePw2owjSoDR8PgZGhhwYJXlB",
-      "bytes": 68665
+      "sha384": "GXnqJUdegUu/mGsjvtXy/MdeQLkX9Q29HSTs3StmgaCmLOSwXj4AvCu5DIM4WTMS",
+      "bytes": 68963
     },
     "web/assets/zh-TW-ACpEKi1M.js": {
-      "sha384": "3gqcuINIvQ8lgF4We4NHFiRBZbMtqKmZlSs9SljDn7SqS+RAmvqWcRK2RCHQKZ7r",
-      "bytes": 69451
+      "sha384": "547k17fGLF7gq1u9bNSOQ4alkj2WM1i3Djk4+8XdTPl0gE5ajhUbS7NOdMIvCvyK",
+      "bytes": 69571
     }
   }
 }
