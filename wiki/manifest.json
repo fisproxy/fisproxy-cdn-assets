@@ -1,9 +1,21 @@
 {
   "site": "wiki",
-  "tag": "wiki-473f54d",
-  "commit": "473f54d18291605dd8a317b5601eea8f645ee848",
-  "generatedAt": "2026-10-30T16:39:19.735Z",
+  "tag": "wiki-b23ba53",
+  "commit": "b23ba53a854760192c9d22cf93f5e247a897df5a",
+  "generatedAt": "2026-10-30T16:40:15.420Z",
   "files": {
+    "wiki/_next/static/7peI0CWcgK5B_nws4PGoY/_buildManifest.js": {
+      "sha384": "Ud9Cf8MTNinEtF8rlqDHyLLW1t5SgKaxDvqfzLTvVvWcq7fagWsfou8Q9uG5T3id",
+      "bytes": 364
+    },
+    "wiki/_next/static/7peI0CWcgK5B_nws4PGoY/_clientMiddlewareManifest.js": {
+      "sha384": "FydDAC1UDIxpwcrmue95P5vRCO20eynViUoChMeytNUbCT3HHGva5hPDru9bl5H+",
+      "bytes": 96
+    },
+    "wiki/_next/static/7peI0CWcgK5B_nws4PGoY/_ssgManifest.js": {
+      "sha384": "jnCHeoDJknyh1Uc1Amkm2k7/m4ljprA2WG15tfzmCtoLmMUX+2kUgvNSxYe1ikOK",
+      "bytes": 111
+    },
     "wiki/_next/static/chunks/0agi80c6qajry.js": {
       "sha384": "0g3wxQiA4cSaDeTIvTjc2iNL2/DmRkU6RCQmDgT6xC6yxB5C8HCjEGZsfXND6n9u",
       "bytes": 824
@@ -104,21 +116,9 @@
       "sha384": "1KWRBAOMMrAEcuz/Qhq5wFogli60pflNt36LAHe7GrK3/wKA50L3/yGG3Z0/32Nq",
       "bytes": 1768
     },
-    "wiki/_next/static/chunks/turbopack-2_ud5i52hhob7.js": {
-      "sha384": "RJKDZHz5ebsk1Sxjv7i4OPAAmFNwLQcBT6J8+OXxDFLdywWhnVaN0ndyVHD7cw7l",
+    "wiki/_next/static/chunks/turbopack-421zgwc3k1ayi.js": {
+      "sha384": "CohaVYoXdxMvhr3D4tEukPz2WbYz3eVCm2Rg6yxyhN9hiqivrMALNtAGc7dGp2lq",
       "bytes": 11338
-    },
-    "wiki/_next/static/grGJF7Rj6LcMME3kszMDn/_buildManifest.js": {
-      "sha384": "rdDKtI4Qcw2naF6nLSmwnDOPCZT8xanfOUxg+i8lbjLGeeKgmBhPgE6EeEspLX8w",
-      "bytes": 364
-    },
-    "wiki/_next/static/grGJF7Rj6LcMME3kszMDn/_clientMiddlewareManifest.js": {
-      "sha384": "FydDAC1UDIxpwcrmue95P5vRCO20eynViUoChMeytNUbCT3HHGva5hPDru9bl5H+",
-      "bytes": 96
-    },
-    "wiki/_next/static/grGJF7Rj6LcMME3kszMDn/_ssgManifest.js": {
-      "sha384": "jnCHeoDJknyh1Uc1Amkm2k7/m4ljprA2WG15tfzmCtoLmMUX+2kUgvNSxYe1ikOK",
-      "bytes": 111
     },
     "wiki/_next/static/media/KaTeX_AMS-Regular.10y3kupq4t663.woff": {
       "sha384": "zzv6YlTIK2GVTGQkpvc0NSYe9dA7KZXEW2BvczWfxlIh461ItqQm6tLVCPwdqbIY",
